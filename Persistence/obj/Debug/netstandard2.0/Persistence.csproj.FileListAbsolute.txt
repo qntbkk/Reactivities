@@ -1,0 +1,12 @@
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/tony/Documents/MyLabs/Reactivites/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
